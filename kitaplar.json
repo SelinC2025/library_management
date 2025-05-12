@@ -1,0 +1,17 @@
+[
+    {
+        "kitap_id": "3",
+        "ad": "Kamburu",
+        "yazar": "Victor Hugo"
+    },
+    {
+        "kitap_id": "1",
+        "ad": "nutuk",
+        "yazar": "mustafa"
+    },
+    {
+        "kitap_id": "2",
+        "ad": "heyhat",
+        "yazar": "halit"
+    }
+]
